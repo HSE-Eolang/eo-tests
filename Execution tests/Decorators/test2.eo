@@ -1,0 +1,6 @@
++package test
+
+45 > obj1
+
+[] > app
+  obj1 > @

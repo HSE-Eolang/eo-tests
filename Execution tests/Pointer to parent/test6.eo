@@ -1,0 +1,9 @@
++package test
+
+[a] > obj1
+  [] > att1
+    ^.a > @
+  1234 > @
+
+[] > app
+  obj1.att1 > @

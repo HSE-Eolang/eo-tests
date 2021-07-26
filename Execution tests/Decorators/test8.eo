@@ -1,0 +1,12 @@
++package test
+
+[] > obj1
+  123 > @
+  
+[] > obj2
+  45.6 > @
+
+[] > app
+  add. > @
+    obj1
+    obj2

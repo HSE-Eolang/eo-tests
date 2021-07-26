@@ -1,0 +1,15 @@
++package test
+
+[] > inc
+  ^.add 1 > @
+
+[] > obj1
+  inc > att1
+  111 > @
+
+[] > obj2
+  obj1.att1 > att2
+  222 > @
+
+[] > app
+  obj2.att2 > @
