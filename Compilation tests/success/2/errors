@@ -1,0 +1,5 @@
+2.4e-34 > expFloat
+'\43' > charCode
+
+1F-E5-77-A6 > bytes
+/[a-z]+.+/m > regexp

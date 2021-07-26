@@ -1,0 +1,21 @@
+1. License
+2. Data Objects
+3. Meta data
+4. Free attributes
+5. Varargs
+6. Bound attributes
+7. Comments
+8. Abstract objects
+9. Decorating
+10. Dot notation, Reverse dot notation
+11. Constant objects
+12. Pointer to parent
+13. Pointer to the current object
+14. Vertical and horizontal code notation
+15. Scope Brackets
+16. Object Arrays
+17. Atoms(Modifications needed)
+18. Recursion
+19. Compilation speed test
+
+

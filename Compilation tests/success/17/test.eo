@@ -1,0 +1,6 @@
+[text] > stdout /bool
+
+[] > obj1
+  [] > att1 /int
+  [a] > att2 /string
+  
